@@ -27,6 +27,15 @@ This repository is for the public version of the APOGEE red giant catalog contai
 
 ![k-means](https://github.com/Fernandez-Trincado/ChemicalAnomalies/blob/master/clustering.png)
 
-Notice that the number of stars per clustering is a initial set, you need to applied the following extra cuts: 
+Notice that to select the final sample of anomalous stars we adopt the following extra cuts to ensure reliable data: 
+
+  * VSCATTE < 1 km/s
+  * Log g < 3.6 dex
+  * [C/Fe] < 0.15 dex
+
+This returns a final data set of 260 stars (Clusteringflag==1 originally contains 354 stars without cuts). 
+
+
+
 
 
