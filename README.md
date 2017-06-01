@@ -18,9 +18,9 @@ This repository is for the public version of the APOGEE red giant catalog contai
 
 [MgAlredgiants.fits](https://dr13.sdss.org/home) This is a catalog of 4673 red giant stars that have metallicities in the range -1.8 < [Fe/H] < -0.7 and signal-to-noise SNR > 70 from the SDSS APOGEE ASPCAP pipeline (discussed in this paper). Our potential chemically anomalous stars are selected based on k-means clustering. Then please pay attention to the flags included in the latest column indicating our three main clustering, and tagged as:
 
-  * "disk stars candidates": Clusteringflag==0
-  * "second generation candidates": Clusteringflag==1
-  * "halo stars": Clusteringflag==2.
+  * `disk stars candidates:` Clusteringflag==0
+  * `second generation candidates:` Clusteringflag==1
+  * `halo stars:` Clusteringflag==2.
 
 
 
