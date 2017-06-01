@@ -30,10 +30,10 @@ This repository is for the public version of the APOGEE red giant catalog contai
 Notice that to select the final sample of anomalous stars we adopt the following extra cuts to ensure reliable data: 
 
   * VSCATTE < 1 km/s
-  * Log g < 3.6 dex
-  * [C/Fe] < 0.15 dex
+  * Log g < 3.6 dex (following Schiavon et al. 2017b)
+  * [C/Fe] < +0.15 dex (following Schiavon et al. 2017b)
 
-This returns a final data set of 260 stars (Clusteringflag==1 originally contains 354 stars without cuts). 
+This returns a final data set of 260 stars (Clusteringflag==1 originally contains 354 stars without cuts). Finally, you just need to discard known stars clusters and N-rich bulge and halo stars (see Meszaros et al. 2015, Martell et al. 2015, Fernandez-Trincado et al. 2016b, Tang et al. 2017, Schiavon et al. 2017a, b).
 
 
 
