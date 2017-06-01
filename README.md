@@ -33,7 +33,7 @@ Notice that to select the final sample of anomalous stars we adopt the following
   * Log g < 3.6 dex (following Schiavon et al. 2017b)
   * [C/Fe] < +0.15 dex (following Schiavon et al. 2017b)
 
-This returns a final data set of 260 stars (Clusteringflag==1 originally contains 354 stars without cuts). Finally, you just need to discard known stars clusters and N-rich bulge stars and N-rich halo stars (see Meszaros et al. 2015, Fernandez-Trincado et al. 2016b, Tang et al. 2017, Schiavon et al. 2017b). This retuns a final data set of 148 likely migrants from globular clusters. We provide a list ID at [MgAlredgiants.fits](https://dr13.sdss.org/home) for the targets that were visually inspected to ensure that the spectral were adequate to provide reliable chemical abundances and to discard false positives. 
+This returns a final data set of 260 stars (Clusteringflag==1 originally contains 354 stars without cuts). Finally, you just need to discard known stars clusters and N-rich bulge stars and N-rich halo stars (see Meszaros et al. 2015, Fernandez-Trincado et al. 2016b, Tang et al. 2017, Schiavon et al. 2017b). This retuns a final data set of 148 likely migrants from globular clusters. We provide a list ID at [VisualInspections.fits](https://dr13.sdss.org/home) for the targets that were visually inspected to ensure that the spectral were adequate to provide reliable chemical abundances and to discard false positives. 
   
 
 **If you have used this catalogue in your research, please consider letting me know and acknowledge Fernandez-Trincado et al. (2017a).**
