@@ -1,5 +1,6 @@
-Searching for Chemical Anomalies in APOGEE-2
+Searching for Chemical Anomalies in APOGEE-2: Signatures of GC-like abundance patterns in the Milky Way
 ====
+
 
 ** Author(s) ** 
 
