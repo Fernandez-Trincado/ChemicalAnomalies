@@ -8,14 +8,14 @@ J. G. Fernandez-Trincado, and APOGEE-2 Team
 
 **Contact:** - jfernandezt@astro-udec.cl and/or jfernandezt87@gmail.com
 
-   **Paper 1: "Atypical Mg-poor Milky Way field stars with second-generation like chemical patters"**
+   **Paper 1 (2017a): "Atypical Mg-poor Milky Way field stars with second-generation like chemical patters"**
 ---
 
 This repository is for the public version of the APOGEE red giant catalog containing a subsample of chemically anomalous targets. The catalog is assocated with this paper, and all our spectra can be download at [SDSS Science Archive Server (SAS)](https://dr13.sdss.org/home) 
 
 **Status:** Submitted to ApJL
 
-**Description:**
+**Description**
 
 [MgAlredgiants.fits](https://dr13.sdss.org/home) This is a catalog of 4611 red giant stars that have metallicities in the range -1.8 < [Fe/H] < -0.7 and signal-to-noise SNR > 70 from the SDSS APOGEE ASPCAP pipeline (discussed in this paper). Our potential chemically anomalous stars are selected based on k-means clustering. Then please pay attention to the flags included in the latest column indicating our three main clustering, and tagged as:
 
@@ -35,6 +35,6 @@ Notice that to select the final sample of anomalous stars we adopt the following
 
 This returns a final data set of 260 stars (Clusteringflag==1 originally contains 354 stars without cuts). Finally, you just need to discard known stars clusters and N-rich bulge stars and N-rich halo stars (see Meszaros et al. 2015, Martell et al. 2015, Fernandez-Trincado et al. 2016b, Tang et al. 2017, Schiavon et al. 2017a, b).
 
-If you have used this catalogue in your research, please consider letting me know and acknowledge Fernandez-Trincado et al. (2017a).
+**If you have used this catalogue in your research, please consider letting me know and acknowledge Fernandez-Trincado et al. (2017a).**
 
 
