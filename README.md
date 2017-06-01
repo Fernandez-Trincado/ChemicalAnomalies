@@ -38,3 +38,6 @@ This returns a final data set of 260 stars (Clusteringflag==1 originally contain
 **If you have used this catalogue in your research, please consider letting me know and acknowledge Fernandez-Trincado et al. (2017a).**
 
 
+
+Last update: 06/02/17
+
