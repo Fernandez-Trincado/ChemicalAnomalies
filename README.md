@@ -23,7 +23,7 @@ This repository is for the public version of the APOGEE red giant catalog contai
   * `second generation candidates:` Clusteringflag==1
   * `halo stars:` Clusteringflag==2.
 
-Figure 1: [Mg/Fe] vs [Al/Fe] projection of the 2D chemical space where we have performed clustering analyses adopting an initial search by clusering algoritms. The initial Clusteringflag==1 was relaxed towards lower Al values (see article) in order to search anomalous candidates in lower [Al/Fe] ratios.    
+**Figure 1:** [Mg/Fe] vs [Al/Fe] projection of the 2D chemical space where we have performed clustering analyses adopting an initial search by clusering algoritms. The initial Clusteringflag==1 was relaxed towards lower Al values (see article) in order to search anomalous candidates in lower [Al/Fe] ratios.    
 
 ![k-means](https://github.com/Fernandez-Trincado/ChemicalAnomalies/blob/master/clustering.png)
 
