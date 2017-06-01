@@ -24,7 +24,7 @@ This repository is for the public version of the APOGEE red giant catalog contai
   * `halo stars:` Clusteringflag==2.
 
 
-![k-means](https://github.com/Fernandez-Trincado/ChemicalAnomalies/blob/master/clustering.pdf)
+![k-means](https://github.com/Fernandez-Trincado/ChemicalAnomalies/blob/master/clustering.png)
 
 
 
