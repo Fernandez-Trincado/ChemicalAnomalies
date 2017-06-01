@@ -30,4 +30,3 @@ This repository is for the public version of the APOGEE red giant catalog contai
 
 
 
-
